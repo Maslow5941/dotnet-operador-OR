@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\bin\Debug\net6.0\dotnetOperadorLogico.exe
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\bin\Debug\net6.0\dotnetOperadorLogico.deps.json
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\bin\Debug\net6.0\dotnetOperadorLogico.runtimeconfig.json
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\bin\Debug\net6.0\dotnetOperadorLogico.dll
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\bin\Debug\net6.0\dotnetOperadorLogico.pdb
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.dll
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\refint\dotnetOperadorLogico.dll
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.pdb
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\dotnetOperadorLogico.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\esof\dotnetOperadorLogico\obj\Debug\net6.0\ref\dotnetOperadorLogico.dll
